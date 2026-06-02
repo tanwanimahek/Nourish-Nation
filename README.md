@@ -12,7 +12,7 @@
 HTML | CSS | JavaScript | Node.js | Firebase | Google Maps API
 
 ## 🌐 Live Demo
-[Coming Soon]
+https://tanwanimahek.github.io/Nourish-Nation/
 
 ## 💡 Inspiration
 Every plate counts. Let's nourish the nation.
@@ -21,4 +21,4 @@ Every plate counts. Let's nourish the nation.
 
 - Sanjna Chahar
 - Ananya Jaiswal
-- Mehak Tanwani
+- Mahek Tanwani
